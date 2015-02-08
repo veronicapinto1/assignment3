@@ -1,0 +1,40 @@
+#left-column {
+	background-color: pink;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+#middle-column {
+	background-color: lightblue;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+#right-column {
+	background-color: lightyellow;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing:border-box;
+
+}
+
+.facebook {
+	font-family: verdana;
+	font-size: 30px;
+	background-color: grey;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+
+.twitter {
+	position: fixed;
+	top: 0px;
+	left:0px;
+
+}
